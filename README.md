@@ -17,6 +17,6 @@
 - 📧 Email : 1031525622@qq.com
 - 📁 掘金社区 : [goddits](https://juejin.cn/user/4046680706782269)
 #### annual summary
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+
 
