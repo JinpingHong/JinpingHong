@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ##### About
-- 🌱 blog : [blog]("https//:cax0.com")
+- 🌱 blog : [blog](https://cax0.com)
 - 💬 微信 : qcsjin888
 - 🐧 QQ : 1031525622
 - 📧 Email : 1031525622@qq.com
