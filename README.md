@@ -14,7 +14,7 @@
 - 🌱 blog : [blog](https://cax0.com)
 - 💬 微信 : qcsjin888
 - 🐧 QQ : 1031525622
-- 📧 Email : 1031525622@qq.com
+- 📧 Email : qcsjin8@gmail.com
 - 📁 掘金社区 : [goddits](https://juejin.cn/user/4046680706782269)
 #### annual summary
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"  /> <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddits&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
