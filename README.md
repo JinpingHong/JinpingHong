@@ -11,14 +11,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-
-##### About
-- 🌱 blog : [blog](https://cax0.com)
-- 💬 微信 : qcsjin888
-- 🐧 QQ : 1031525622
-- 📧 Email : qcsjin8@gmail.com
-- 📁 掘金社区 : [goddits](https://juejin.cn/user/4046680706782269)
 #### annual summary
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"  /> <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddits&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=goddits&bg_color=FFFFFF&color=409EFF&line=F85D7F&point=F85D7F&hide_border=true" /></a>
