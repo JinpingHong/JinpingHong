@@ -14,5 +14,3 @@
 #### annual summary
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=goddits&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"  /> <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goddits&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=goddits&bg_color=FFFFFF&color=409EFF&line=F85D7F&point=F85D7F&hide_border=true" /></a>
