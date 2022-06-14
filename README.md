@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Charles Hong , working in shanghai, front end .
+#### I'm Charles Hong , working in shanghai, front end Engineer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=goddits.goddits)
 
