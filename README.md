@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### I'm Charles Hong , working in hangzhou, front end Engineer.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jp9907.jp9907)
 
 #### adept
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
